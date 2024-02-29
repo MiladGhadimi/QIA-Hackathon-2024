@@ -10,9 +10,13 @@ qubit in the resource state [2,4]
 4. Execute the Grover circuit by telepor6ng two client qubits, and sending the necessary 
 classical informa6on to the server
 
-[1] h-ps://pennylane.ai/qml/demos/tutorial_mbqc/ 
+[1] h-ps://pennylane.ai/qml/demos/tutorial_mbqc
+
 [2] h-ps://www.sco-aaronson.com/showcase2/report/charles-herder.pdf 
-[3] h-ps://pennylane.ai/qml/demos/tutorial_grovers_algorithm/ 
+
+[3] h-ps://pennylane.ai/qml/demos/tutorial_grovers_algorithm
+
 [4] h-ps://arxiv.org/pdf/1110.1381.pdf 
+
 [5] h-ps://peterrohde.org/an-introducIon-to-graph-states/#Local_complementaIon 
  
